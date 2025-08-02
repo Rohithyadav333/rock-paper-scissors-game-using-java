@@ -62,7 +62,7 @@ You win!
  Add score tracking across multiple rounds
 
 ## 📸 Screenshot
-
+<img width="695" height="206" alt="Image" src="https://github.com/user-attachments/assets/f7d73cbb-990d-4011-a1ba-81431aac6124" />
 
 
 
